@@ -1,0 +1,19 @@
+{
+  "name": "urlshorter",
+  "version": "1.0.0",
+  "description": "Short you url in nodejs without any db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "url",
+    "shorter"
+  ],
+  "author": "Rama",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security"
+  }
+}
